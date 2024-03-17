@@ -53,9 +53,9 @@
         <a href="{{ site.affiliation_link }}" rel="noopener"><autocolor>{{ site.affiliation }}</autocolor></a>
         <br>
         {% endif %}
-        {% if site.email %}
+<!--         {% if site.email %}
         <email>{{ site.email }}</email>
-        {% endif %}
+        {% endif %} -->
 
         <br>
         <br>
@@ -89,6 +89,13 @@
           <i class="fab fa-twitter"></i>
         </a>
         {% endif %}
+
+        {% if site.email %}
+        <a style="margin: 0 0 0 0" href="{{ site.email }}">
+          <i class="fab fa-email"></i>
+        </a>
+        {% endif %}
+          
         </div>
         <br>
 
