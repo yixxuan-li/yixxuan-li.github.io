@@ -8,7 +8,7 @@ I am a first-year Ph.D. student at the School of Computer Science and Technology
 
 ## Research Interests
 
-- Multi-modal learning, Embodied AI
+- Multimodal learning, Embodied AI, Robotics learning.
 
 <!--
 ## News
