@@ -4,12 +4,11 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a first-year Ph.D. student at the School of Computer Science and Technology, [Beijing Institute of Technology](bit.edu.cn). I am a member of [Visual Perception & Human-computer Interaction Lab(PI Lab), BIT](https://liangwei-bit.github.io/web/) under the supervision of Prof.[Wei Liang](https://liangwei-bit.github.io/web/). I earned my Bachelor degree(Intelligence Science and Technology) in 2017 from [Qingdao University](qdu.edu.cn).
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- Multi-modal learning, Embodied AI
 
 <!--
 ## News
