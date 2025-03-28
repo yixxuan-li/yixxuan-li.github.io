@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a first-year Ph.D. student at the School of Computer Science and Technology, [Beijing Institute of Technology](https://bit.edu.cn). I am a member of [Visual Perception & Human-computer Interaction Lab(PI Lab), BIT](https://liangwei-bit.github.io/web/) under the supervision of Prof. [Wei Liang](https://liangwei-bit.github.io/web/). I earned my Bachelor degree(Intelligence Science and Technology) in 2017 from [Qingdao University](https://www.qdu.edu.cn/).
+I am a first-year Ph.D. student at the School of Computer Science and Technology, [Beijing Institute of Technology](https://bit.edu.cn). I am a member of [Perception, Interaction, Embodiment Lab (Pie Lab), BIT](http://pie-lab.cn/) under the supervision of Prof. [Wei Liang](https://cs.bit.edu.cn/szdw/jsml2/txjsygzznyjs2/8b9943e7a8984a65a3ba3c3e6b3b161b.htm). I earned my Bachelor degree(Intelligence Science and Technology) in 2017 from [Qingdao University](https://www.qdu.edu.cn/).
 
 ## Research Interests
 
