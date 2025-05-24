@@ -17,7 +17,20 @@
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="{{ link.pdf }}">{{ link.title }}</a></div>
-      <div class="author">{{ link.authors }}</div>
+      <div class="author">
+        {% assign authors = link.authors | split: ", " %}
+        {% for author in authors %}
+          {% if author contains "[" %}
+            {% assign parts = author | split: "]" %}
+            {% assign name_part = parts[0] | remove: "[" %}
+            {% assign url_part = name_part | split: "(" | last | remove: ")" %}
+            {% assign display_name = name_part | split: "(" | first %}
+            <a href="{{ url_part }}" target="_blank">{{ display_name }}</a>{% unless forloop.last %}, {% endunless %}
+          {% else %}
+            {{ author }}{% unless forloop.last %}, {% endunless %}
+          {% endif %}
+        {% endfor %}
+      </div>
       <div class="periodical"><em>{{ link.conference }}</em>
       </div>
     <div class="links">
@@ -50,4 +63,3 @@
 
 </ol>
 </div>
-
