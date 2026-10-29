@@ -1,0 +1,6 @@
+Mail: Google Material Symbols Rounded, Apache-2.0
+https://github.com/google/material-design-icons/blob/master/symbols/web/mail/materialsymbolsrounded/mail_24px.svg
+Google Scholar, GitHub, ORCID, Xiaohongshu: Simple Icons, CC0-1.0
+https://github.com/simple-icons/simple-icons/tree/develop/icons
+LinkedIn: Bootstrap Icons, MIT
+https://github.com/twbs/icons/blob/main/icons/linkedin.svg
